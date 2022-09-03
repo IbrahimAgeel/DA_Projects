@@ -1,3 +1,3 @@
 # DA_Projects
 
-This project was done as part of the data analyst course offered by simplilearn.com
+The objective of the project is to make a model to predict the app rating, with other information about the app provided.
